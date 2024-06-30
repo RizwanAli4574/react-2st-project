@@ -1,0 +1,42 @@
+
+/* #main{
+    display:inline-block;
+    margin-left: 100px;
+    width: 25%;
+    padding-top: 50px;
+}
+#sub-main {
+   
+    width: 100%; 
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: start;
+} */
+
+#main{
+    display:flex;
+    flex-wrap: wrap;
+    width: 25%;
+    padding-top: 50px;
+}
+#sub-main {
+   
+    width: 100%; 
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: start;
+}
+
+h5{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: larger;
+    margin-top:50px;
+}
